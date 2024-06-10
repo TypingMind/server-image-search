@@ -3,9 +3,6 @@
   "id": "server_search_images_via_google",
   "emoji": "🌅",
   "title": "Image Search",
-  "isServerPlugin": true,
-  "disabled": true,
-  "system": true,
   "code": "",
   "httpAction": {
     "id": "8bda801d-9017-434c-92e4-64d5b6ef7ffa",
